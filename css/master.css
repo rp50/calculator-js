@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+}
+.calculator-container{
+  display: flex;
+  flex-direction: column;
+  height: 750px;
+  width: 600px;
+}
+.input-window{
+
+}
+.button-container{
+
+}
+.button{
+  height: 150px;
+  width: 150px;
+}
+.button--num{
+
+}
+.button--del{
+
+}
+.button--clear{
+
+}
+.button--operator{
+
+}
+.button--num__zero{
+
+}
