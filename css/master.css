@@ -37,19 +37,21 @@
   padding: 0;
   background: #D4D4D2;
   font-family: Trebuchet, Arial, sans-serif;
-  font-size: 20px;
+  font-size: 30px;
 }
 .button--clear{
   width:50%;
 }
 .button--operator{
   background: #FF9500;
+  color: white;
 }
 .button--num__zero{
   width: 75%;
 }
 .button--equals{
   background: #FF9500;
+  color: white;
 }
 .button:hover{
   background: #dadad8;
